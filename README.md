@@ -18,8 +18,8 @@
 <img src="https://user-images.githubusercontent.com/52556870/145670155-86ae5faa-6495-4651-8036-2b00105353f3.gif">
 
 ## 서비스개요
-<img src="https://user-images.githubusercontent.com/52556870/152687178-bc37290c-d33e-40f7-8724-deec9fb90f78.jpg">
-<img src="https://user-images.githubusercontent.com/52556870/152687180-1f82b93d-d6e4-411c-956d-fdefa214a3cd.jpg">
+<img width = "550" src="https://user-images.githubusercontent.com/52556870/152687178-bc37290c-d33e-40f7-8724-deec9fb90f78.jpg">
+<img width = "550" src="https://user-images.githubusercontent.com/52556870/152687180-1f82b93d-d6e4-411c-956d-fdefa214a3cd.jpg">
 
 ## 기능소개영상
 #### [ 회원가입 / 로그인 ]
